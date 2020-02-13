@@ -12,6 +12,7 @@ public class NotasAlumnos {
 	public static void main(String[] args) {
 		// TODO Apéndice de método generado automáticamente
 		System.out.println("Holasaasadddds");
+		System.out.println("Holaaaa");
 			
 	}
 
